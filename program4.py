@@ -2,7 +2,7 @@
 a=int(input("Enter date: "))
 b=int(input("Enter month: "))
 c=int(input("Enter year: "))'''
-# Replace 'YYYY-MM-DD' with your actual birth date in the format 'YYYY-MM-DD'
+
 birth_date_str = '2005-11-03'
 
 # Convert the birth date string to year, month, and day integers
